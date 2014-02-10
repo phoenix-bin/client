@@ -8,21 +8,7 @@
     SERVER FILTER BY FIRST KEY ONLY
     SERVER AGGREGATE INTO SINGLE ROW'>PHOENIX-SNAPSHOT</span></font></td></font></tr></table><br></td></tr></table><table class="myTable"</table><table class="myTable"<tr><td><font size=1 color='black'>select count(*) from <a href='#RHS500K'>RHS500K</a><table width='1000' cellspacing='0px'><tr><td bgcolor='#D5E5D5' width='4' height='10'</td><td><font size=1 color='black'>0.34s</font><font size=1 color='gray'> <span title='CLIENT PARALLEL 18-WAY FULL SCAN OVER RHS500K
     SERVER FILTER BY FIRST KEY ONLY
-    SERVER AGGREGATE INTO SINGLE ROW'>PHOENIX-SNAPSHOT</span></font></td></font></tr></table><br></td></tr></table><hr><font size=4 color='#333355'><b>JOIN</b></font><br><br><table class="myTable"</table><table class="myTable"</table><table class="myTable"</table><table class="myTable"</table><table class="myTable"</table><table class="myTable"<tr><td><font size=1 color='black'>select count(*) from <a href='#RHS300K'>RHS300K</a><table width='1000' cellspacing='0px'><tr><td bgcolor='#D5E5D5' width='3' height='10'</td><td><font size=1 color='black'>0.22s</font><font size=1 color='gray'> <span title='CLIENT PARALLEL 18-WAY FULL SCAN OVER RHS300K
-    SERVER FILTER BY FIRST KEY ONLY
-    SERVER AGGREGATE INTO SINGLE ROW'>PHOENIX-SNAPSHOT</span></font></td></font></tr></table><br></td></tr><tr><td><font size=1 color='black'>select count(*) from LHS5M JOIN <a href='#RHS300K'>RHS300K</a> on <a href='#RHS300K'>RHS300K</a>.mypk = LHS5M.column1<table width='1000' cellspacing='0px'><tr><td bgcolor='#D5E5D5' width='52' height='10'</td><td><font size=1 color='black'>3.78s</font><font size=1 color='gray'> <span title='CLIENT PARALLEL 32-WAY FULL SCAN OVER LHS5M
-    SERVER AGGREGATE INTO SINGLE ROW
-    PARALLEL EQUI-JOIN 1 HASH TABLES:
-    BUILD HASH TABLE 0 (SKIP MERGE)
-        CLIENT PARALLEL 18-WAY FULL SCAN OVER RHS300K
-            SERVER FILTER BY FIRST KEY ONLY
-        CLIENT MERGE SORT'>PHOENIX-SNAPSHOT</span></font></td></font></tr></table><br></td></tr><tr><td><font size=1 color='black'>select count(*) from LHS20M JOIN <a href='#RHS300K'>RHS300K</a> on <a href='#RHS300K'>RHS300K</a>.mypk = LHS20M.column1<table width='1000' cellspacing='0px'><tr><td bgcolor='#D5E5D5' width='133' height='10'</td><td><font size=1 color='black'>9.51s</font><font size=1 color='gray'> <span title='CLIENT PARALLEL 32-WAY FULL SCAN OVER LHS20M
-    SERVER AGGREGATE INTO SINGLE ROW
-    PARALLEL EQUI-JOIN 1 HASH TABLES:
-    BUILD HASH TABLE 0 (SKIP MERGE)
-        CLIENT PARALLEL 18-WAY FULL SCAN OVER RHS300K
-            SERVER FILTER BY FIRST KEY ONLY
-        CLIENT MERGE SORT'>PHOENIX-SNAPSHOT</span></font></td></font></tr></table><br></td></tr></table><table class="myTable"</table><hr><font size=4 color='#333355'><b>JOIN - LHS10M</b></font><br><br><table class="myTable"</table><table class="myTable"</table><table class="myTable"<tr><td><font size=1 color='black'>select count(*) from LHS20M JOIN <a href='#RHS100K'>RHS100K</a> on <a href='#RHS100K'>RHS100K</a>.mypk = LHS20M.column1<table width='1000' cellspacing='0px'><tr><td bgcolor='#D5E5D5' width='109' height='10'</td><td><font size=1 color='black'>7.84s</font><font size=1 color='gray'> <span title='CLIENT PARALLEL 32-WAY FULL SCAN OVER LHS20M
+    SERVER AGGREGATE INTO SINGLE ROW'>PHOENIX-SNAPSHOT</span></font></td></font></tr></table><br></td></tr></table><hr><font size=4 color='#333355'><b>JOIN - LHS10M</b></font><br><br><table class="myTable"</table><table class="myTable"</table><table class="myTable"<tr><td><font size=1 color='black'>select count(*) from LHS20M JOIN <a href='#RHS100K'>RHS100K</a> on <a href='#RHS100K'>RHS100K</a>.mypk = LHS20M.column1<table width='1000' cellspacing='0px'><tr><td bgcolor='#D5E5D5' width='109' height='10'</td><td><font size=1 color='black'>7.84s</font><font size=1 color='gray'> <span title='CLIENT PARALLEL 32-WAY FULL SCAN OVER LHS20M
     SERVER AGGREGATE INTO SINGLE ROW
     PARALLEL EQUI-JOIN 1 HASH TABLES:
     BUILD HASH TABLE 0 (SKIP MERGE)
