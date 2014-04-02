@@ -15,11 +15,11 @@ svn:wc:ra_dav:version-url
 V 76
 /repos/asf/!svn/ver/1555283/incubator/phoenix/site/publish/images/div-ks.png
 END
-perf-salted-write.png
+loading.gif
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/perf-salted-write.png
+V 77
+/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/loading.gif
 END
 div-ls.png
 K 25
@@ -27,11 +27,11 @@ svn:wc:ra_dav:version-url
 V 76
 /repos/asf/!svn/ver/1555283/incubator/phoenix/site/publish/images/div-ls.png
 END
-loading.gif
+perf-salted-write.png
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/loading.gif
+V 87
+/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/perf-salted-write.png
 END
 PhoenixVsHive.png
 K 25
@@ -111,11 +111,11 @@ svn:wc:ra_dav:version-url
 V 74
 /repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/next.png
 END
-psql.png
+div-ke.png
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/psql.png
+V 76
+/repos/asf/!svn/ver/1555283/incubator/phoenix/site/publish/images/div-ke.png
 END
 perf-salted-read.png
 K 25
@@ -123,11 +123,11 @@ svn:wc:ra_dav:version-url
 V 86
 /repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/perf-salted-read.png
 END
-div-ke.png
+psql.png
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/repos/asf/!svn/ver/1555283/incubator/phoenix/site/publish/images/div-ke.png
+V 74
+/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/images/psql.png
 END
 div-le.png
 K 25
