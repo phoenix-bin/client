@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/repos/asf/!svn/ver/1576846/incubator/phoenix/site/publish/css
-END
-docs.css
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/css/docs.css
-END
-print.css
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/css/print.css
-END
-bootswatch.css
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/css/bootswatch.css
-END
-lightbox.css
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/repos/asf/!svn/ver/1554575/incubator/phoenix/site/publish/css/lightbox.css
-END
-reflow-skin.css
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/repos/asf/!svn/ver/1576846/incubator/phoenix/site/publish/css/reflow-skin.css
+V 52
+/repos/asf/!svn/ver/1644714/phoenix/site/publish/css
 END
 site.css
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/repos/asf/!svn/ver/1558237/incubator/phoenix/site/publish/css/site.css
+V 61
+/repos/asf/!svn/ver/1644714/phoenix/site/publish/css/site.css
+END
+docs.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/css/docs.css
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/css/print.css
+END
+bootswatch.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/css/bootswatch.css
+END
+lightbox.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/css/lightbox.css
+END
+reflow-skin.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/css/reflow-skin.css
 END
