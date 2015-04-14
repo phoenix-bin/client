@@ -3,6 +3,18 @@ svn:wc:ra_dav:version-url
 V 64
 /repos/asf/!svn/ver/1599083/phoenix/site/publish/language/images
 END
+div-d.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/language/images/div-d.png
+END
+div-ts.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/language/images/div-ts.png
+END
 div-te.png
 K 25
 svn:wc:ra_dav:version-url
@@ -32,16 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 75
 /repos/asf/!svn/ver/1599083/phoenix/site/publish/language/images/div-le.png
-END
-div-d.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/repos/asf/!svn/ver/1599083/phoenix/site/publish/language/images/div-d.png
-END
-div-ts.png
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/repos/asf/!svn/ver/1599083/phoenix/site/publish/language/images/div-ts.png
 END

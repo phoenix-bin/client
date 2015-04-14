@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/repos/asf/!svn/ver/1635051/phoenix/site/publish/presentations
+/repos/asf/!svn/ver/1671237/phoenix/site/publish/presentations
+END
+ApacheCon2014-16x9.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1599083/phoenix/site/publish/presentations/ApacheCon2014-16x9.pdf
 END
 HBaseCon2014-16x9.pdf
 K 25
@@ -33,9 +39,9 @@ svn:wc:ra_dav:version-url
 V 88
 /repos/asf/!svn/ver/1635051/phoenix/site/publish/presentations/HadoopSummit2014-16x9.pdf
 END
-ApacheCon2014-16x9.pdf
+hpts-submission.pdf
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/repos/asf/!svn/ver/1599083/phoenix/site/publish/presentations/ApacheCon2014-16x9.pdf
+V 82
+/repos/asf/!svn/ver/1671237/phoenix/site/publish/presentations/hpts-submission.pdf
 END
